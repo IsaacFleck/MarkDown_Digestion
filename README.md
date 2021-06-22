@@ -9,5 +9,5 @@ Please see my Automated Windows Deployment repo for an example of this function 
 
 ## Requirements 
 
-Powershell 7 + 
+Powershell 7 + <br/>
 *.md file in the root folder 
